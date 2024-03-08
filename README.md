@@ -13,4 +13,4 @@
 
 ### Para rodar os endpoints direto no Postman:
 
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/18823004-598d3a6d-55c8-4fc5-b5d2-72c2fa632c4d?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D18823004-598d3a6d-55c8-4fc5-b5d2-72c2fa632c4d%26entityType%3Dcollection%26workspaceId%3D8d574e78-9d12-4e29-b273-d6b0a2fe1581)
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/18823004-76882bbe-59d7-4a3f-9a67-4c76c298f1ba?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D18823004-76882bbe-59d7-4a3f-9a67-4c76c298f1ba%26entityType%3Dcollection%26workspaceId%3D8d574e78-9d12-4e29-b273-d6b0a2fe1581)
