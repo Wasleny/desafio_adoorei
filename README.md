@@ -4,6 +4,7 @@
 - Clonar o projeto do github
 - Execute o comando `composer install` para instalar as dependências do projeto
 - Para subir a aplicação, execute o comando: `./vendor/bin/sail up`
+- Para criar as tabelas, execute o comando: `./vendor/bin/sail artisan migrate --seed`
 - Para rodar os testes, execute o comando: `./vendor/bin/sail artisan test`
 
 - Para acessar a documentação da API, [acesse aqui](https://app.swaggerhub.com/apis/Wasleny/DesafioAdoorei/1.0.0)
